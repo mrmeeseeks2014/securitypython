@@ -3,7 +3,9 @@
 Initial Source:
 https://www.youtube.com/watch?v=kf1Zzcj2gV8
 
-Initial Projects:
+
+## Initial Projects:
+
 1. Python Cybersecurity— Network Tracking using Wireshark and Google Maps.
 Link: https://youtu.be/xuNuy8n8u-Y
 
@@ -34,7 +36,8 @@ Link: https://youtu.be/Ov8ABk4_3d4
 10. Python Algorithmic Trading In 8 Minutes 🔥 Fetch Stocks(Xpeng & Apple)
 Link: https://youtu.be/8gGV6eGp9IQ
 
-Other Project Sources:
+## Other Project Sources:
+
 1 - Violent Python
 Amazon book link: https://amzn.to/3eZqEJV
 
