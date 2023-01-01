@@ -33,9 +33,6 @@ Link: https://youtu.be/bH-3PuQC_n0
 9. Spam Detection using Machine Learning
 Link: https://youtu.be/Ov8ABk4_3d4
 
-10. Python Algorithmic Trading In 8 Minutes 🔥 Fetch Stocks(Xpeng & Apple)
-Link: https://youtu.be/8gGV6eGp9IQ
-
 ## Other Project Sources:
 
 1 - Violent Python
